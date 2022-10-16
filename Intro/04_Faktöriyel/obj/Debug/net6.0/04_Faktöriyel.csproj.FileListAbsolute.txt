@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\bin\Debug\net6.0\04_Faktöriyel.exe
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\bin\Debug\net6.0\04_Faktöriyel.deps.json
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\bin\Debug\net6.0\04_Faktöriyel.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\bin\Debug\net6.0\04_Faktöriyel.dll
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\bin\Debug\net6.0\04_Faktöriyel.pdb
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.dll
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\refint\04_Faktöriyel.dll
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.pdb
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\04_Faktöriyel.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\04_Faktöriyel\obj\Debug\net6.0\ref\04_Faktöriyel.dll

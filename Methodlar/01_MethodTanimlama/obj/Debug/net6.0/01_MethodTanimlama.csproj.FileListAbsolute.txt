@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\bin\Debug\net6.0\01_MethodTanimlama.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\bin\Debug\net6.0\01_MethodTanimlama.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\bin\Debug\net6.0\01_MethodTanimlama.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\bin\Debug\net6.0\01_MethodTanimlama.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\bin\Debug\net6.0\01_MethodTanimlama.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\refint\01_MethodTanimlama.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\01_MethodTanimlama.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Methodlar\01_MethodTanimlama\obj\Debug\net6.0\ref\01_MethodTanimlama.dll

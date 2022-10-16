@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\bin\Debug\net6.0\09_FibonacciIlk10Sayi.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\bin\Debug\net6.0\09_FibonacciIlk10Sayi.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\bin\Debug\net6.0\09_FibonacciIlk10Sayi.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\bin\Debug\net6.0\09_FibonacciIlk10Sayi.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\bin\Debug\net6.0\09_FibonacciIlk10Sayi.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\refint\09_FibonacciIlk10Sayi.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\09_FibonacciIlk10Sayi.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\09_FibonacciIlk10Sayi\obj\Debug\net6.0\ref\09_FibonacciIlk10Sayi.dll

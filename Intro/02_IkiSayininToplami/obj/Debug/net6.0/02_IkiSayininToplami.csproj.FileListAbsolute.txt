@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\bin\Debug\net6.0\02_IkiSayininToplami.exe
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\bin\Debug\net6.0\02_IkiSayininToplami.deps.json
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\bin\Debug\net6.0\02_IkiSayininToplami.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\bin\Debug\net6.0\02_IkiSayininToplami.dll
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\bin\Debug\net6.0\02_IkiSayininToplami.pdb
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.dll
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\refint\02_IkiSayininToplami.dll
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.pdb
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\02_IkiSayininToplami.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\02_IkiSayininToplami\obj\Debug\net6.0\ref\02_IkiSayininToplami.dll

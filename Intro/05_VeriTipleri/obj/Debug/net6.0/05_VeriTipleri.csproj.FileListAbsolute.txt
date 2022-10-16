@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\bin\Debug\net6.0\05_VeriTipleri.exe
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\bin\Debug\net6.0\05_VeriTipleri.deps.json
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\bin\Debug\net6.0\05_VeriTipleri.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\bin\Debug\net6.0\05_VeriTipleri.dll
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\bin\Debug\net6.0\05_VeriTipleri.pdb
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.dll
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\refint\05_VeriTipleri.dll
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.pdb
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\05_VeriTipleri.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\05_VeriTipleri\obj\Debug\net6.0\ref\05_VeriTipleri.dll

@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\bin\Debug\net6.0\03_DiziOrnekFibo.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\bin\Debug\net6.0\03_DiziOrnekFibo.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\bin\Debug\net6.0\03_DiziOrnekFibo.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\bin\Debug\net6.0\03_DiziOrnekFibo.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\bin\Debug\net6.0\03_DiziOrnekFibo.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\refint\03_DiziOrnekFibo.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\03_DiziOrnekFibo.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Dizilerr\03_DiziOrnekFibo\obj\Debug\net6.0\ref\03_DiziOrnekFibo.dll

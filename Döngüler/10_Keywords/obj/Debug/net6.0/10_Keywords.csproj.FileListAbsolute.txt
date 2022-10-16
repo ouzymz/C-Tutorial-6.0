@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\bin\Debug\net6.0\10_Keywords.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\bin\Debug\net6.0\10_Keywords.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\bin\Debug\net6.0\10_Keywords.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\bin\Debug\net6.0\10_Keywords.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\bin\Debug\net6.0\10_Keywords.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\refint\10_Keywords.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\10_Keywords.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\10_Keywords\obj\Debug\net6.0\ref\10_Keywords.dll

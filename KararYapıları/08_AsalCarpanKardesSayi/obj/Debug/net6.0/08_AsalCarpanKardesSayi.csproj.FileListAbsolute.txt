@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\bin\Debug\net6.0\08_AsalCarpanKardesSayi.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\bin\Debug\net6.0\08_AsalCarpanKardesSayi.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\bin\Debug\net6.0\08_AsalCarpanKardesSayi.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\bin\Debug\net6.0\08_AsalCarpanKardesSayi.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\bin\Debug\net6.0\08_AsalCarpanKardesSayi.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\refint\08_AsalCarpanKardesSayi.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\08_AsalCarpanKardesSayi.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\08_AsalCarpanKardesSayi\obj\Debug\net6.0\ref\08_AsalCarpanKardesSayi.dll

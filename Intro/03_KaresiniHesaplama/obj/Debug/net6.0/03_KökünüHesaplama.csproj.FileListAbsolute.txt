@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\bin\Debug\net6.0\03_KökünüHesaplama.exe
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\bin\Debug\net6.0\03_KökünüHesaplama.deps.json
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\bin\Debug\net6.0\03_KökünüHesaplama.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\bin\Debug\net6.0\03_KökünüHesaplama.dll
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\bin\Debug\net6.0\03_KökünüHesaplama.pdb
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.dll
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\refint\03_KökünüHesaplama.dll
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.pdb
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\03_KökünüHesaplama.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\03_KaresiniHesaplama\obj\Debug\net6.0\ref\03_KökünüHesaplama.dll

@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.exe
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.deps.json
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.dll
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\bin\Debug\net6.0\01_HelloWorld.pdb
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.dll
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\refint\01_HelloWorld.dll
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.pdb
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\01_HelloWorld.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\01_HelloWorld\obj\Debug\net6.0\ref\01_HelloWorld.dll

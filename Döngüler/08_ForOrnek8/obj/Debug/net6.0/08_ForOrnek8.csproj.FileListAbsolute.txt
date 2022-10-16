@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\bin\Debug\net6.0\08_ForOrnek8.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\bin\Debug\net6.0\08_ForOrnek8.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\bin\Debug\net6.0\08_ForOrnek8.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\bin\Debug\net6.0\08_ForOrnek8.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\bin\Debug\net6.0\08_ForOrnek8.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\refint\08_ForOrnek8.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\08_ForOrnek8.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\Döngüler\08_ForOrnek8\obj\Debug\net6.0\ref\08_ForOrnek8.dll

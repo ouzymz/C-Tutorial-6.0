@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\bin\Debug\net6.0\02_SuFazSwitchCase.exe
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\bin\Debug\net6.0\02_SuFazSwitchCase.deps.json
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\bin\Debug\net6.0\02_SuFazSwitchCase.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\bin\Debug\net6.0\02_SuFazSwitchCase.dll
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\bin\Debug\net6.0\02_SuFazSwitchCase.pdb
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.dll
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\refint\02_SuFazSwitchCase.dll
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.pdb
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\02_SuFazSwitchCase.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_SuFazSwitchCase\obj\Debug\net6.0\ref\02_SuFazSwitchCase.dll

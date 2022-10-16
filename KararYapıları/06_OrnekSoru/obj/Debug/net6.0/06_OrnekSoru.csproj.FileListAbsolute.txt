@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\bin\Debug\net6.0\06_OrnekSoru.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\bin\Debug\net6.0\06_OrnekSoru.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\bin\Debug\net6.0\06_OrnekSoru.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\bin\Debug\net6.0\06_OrnekSoru.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\bin\Debug\net6.0\06_OrnekSoru.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\refint\06_OrnekSoru.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\06_OrnekSoru.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\06_OrnekSoru\obj\Debug\net6.0\ref\06_OrnekSoru.dll

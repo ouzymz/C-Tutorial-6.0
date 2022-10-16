@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\bin\Debug\net6.0\12_DoWhile12.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\bin\Debug\net6.0\12_DoWhile12.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\bin\Debug\net6.0\12_DoWhile12.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\bin\Debug\net6.0\12_DoWhile12.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\bin\Debug\net6.0\12_DoWhile12.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\refint\12_DoWhile12.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\12_DoWhile12.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\12_DoWhile12\obj\Debug\net6.0\ref\12_DoWhile12.dll

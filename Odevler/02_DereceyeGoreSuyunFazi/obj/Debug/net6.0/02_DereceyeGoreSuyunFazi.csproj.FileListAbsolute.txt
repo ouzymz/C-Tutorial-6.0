@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\bin\Debug\net6.0\02_DereceyeGoreSuyunFazi.exe
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\bin\Debug\net6.0\02_DereceyeGoreSuyunFazi.deps.json
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\bin\Debug\net6.0\02_DereceyeGoreSuyunFazi.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\bin\Debug\net6.0\02_DereceyeGoreSuyunFazi.dll
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\bin\Debug\net6.0\02_DereceyeGoreSuyunFazi.pdb
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.dll
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\refint\02_DereceyeGoreSuyunFazi.dll
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.pdb
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\02_DereceyeGoreSuyunFazi.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\Odevler\02_DereceyeGoreSuyunFazi\obj\Debug\net6.0\ref\02_DereceyeGoreSuyunFazi.dll

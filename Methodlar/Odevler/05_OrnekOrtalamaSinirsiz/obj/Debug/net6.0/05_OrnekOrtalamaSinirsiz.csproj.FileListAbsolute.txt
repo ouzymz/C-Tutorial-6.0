@@ -1,0 +1,15 @@
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\bin\Debug\net6.0\05_OrnekOrtalamaSinirsiz.exe
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\bin\Debug\net6.0\05_OrnekOrtalamaSinirsiz.deps.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\bin\Debug\net6.0\05_OrnekOrtalamaSinirsiz.runtimeconfig.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\bin\Debug\net6.0\05_OrnekOrtalamaSinirsiz.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\bin\Debug\net6.0\05_OrnekOrtalamaSinirsiz.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.csproj.AssemblyReference.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.AssemblyInfoInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.AssemblyInfo.cs
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\refint\05_OrnekOrtalamaSinirsiz.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\05_OrnekOrtalamaSinirsiz.genruntimeconfig.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_OrnekOrtalamaSinirsiz\obj\Debug\net6.0\ref\05_OrnekOrtalamaSinirsiz.dll

@@ -1,0 +1,15 @@
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.csproj.AssemblyReference.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.AssemblyInfoInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.AssemblyInfo.cs
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\bin\Debug\net6.0\08_OrnekTCKimlik.exe
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\bin\Debug\net6.0\08_OrnekTCKimlik.deps.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\bin\Debug\net6.0\08_OrnekTCKimlik.runtimeconfig.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\bin\Debug\net6.0\08_OrnekTCKimlik.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\bin\Debug\net6.0\08_OrnekTCKimlik.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\refint\08_OrnekTCKimlik.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\08_OrnekTCKimlik.genruntimeconfig.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\08_OrnekTCKimlik\obj\Debug\net6.0\ref\08_OrnekTCKimlik.dll

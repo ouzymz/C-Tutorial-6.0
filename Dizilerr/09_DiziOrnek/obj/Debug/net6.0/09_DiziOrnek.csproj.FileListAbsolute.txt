@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\bin\Debug\net6.0\09_DiziOrnek.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\bin\Debug\net6.0\09_DiziOrnek.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\bin\Debug\net6.0\09_DiziOrnek.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\bin\Debug\net6.0\09_DiziOrnek.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\bin\Debug\net6.0\09_DiziOrnek.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\refint\09_DiziOrnek.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\09_DiziOrnek.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\09_DiziOrnek\obj\Debug\net6.0\ref\09_DiziOrnek.dll

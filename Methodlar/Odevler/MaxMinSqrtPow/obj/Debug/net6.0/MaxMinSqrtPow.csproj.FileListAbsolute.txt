@@ -1,0 +1,15 @@
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\bin\Debug\net6.0\MaxMinSqrtPow.exe
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\bin\Debug\net6.0\MaxMinSqrtPow.deps.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\bin\Debug\net6.0\MaxMinSqrtPow.runtimeconfig.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\bin\Debug\net6.0\MaxMinSqrtPow.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\bin\Debug\net6.0\MaxMinSqrtPow.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.csproj.AssemblyReference.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.AssemblyInfoInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.AssemblyInfo.cs
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\refint\MaxMinSqrtPow.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\MaxMinSqrtPow.genruntimeconfig.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\Odevler\MaxMinSqrtPow\obj\Debug\net6.0\ref\MaxMinSqrtPow.dll

@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\bin\Debug\net6.0\06_ValueAndReferenceTypes.exe
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\bin\Debug\net6.0\06_ValueAndReferenceTypes.deps.json
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\bin\Debug\net6.0\06_ValueAndReferenceTypes.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\bin\Debug\net6.0\06_ValueAndReferenceTypes.dll
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\bin\Debug\net6.0\06_ValueAndReferenceTypes.pdb
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.dll
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\refint\06_ValueAndReferenceTypes.dll
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.pdb
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\06_ValueAndReferenceTypes.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\06_ValueAndReferenceTypes\obj\Debug\net6.0\ref\06_ValueAndReferenceTypes.dll

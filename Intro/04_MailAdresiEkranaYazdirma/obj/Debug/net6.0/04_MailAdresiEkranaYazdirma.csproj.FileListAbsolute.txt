@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\bin\Debug\net6.0\04_MailAdresiEkranaYazdirma.exe
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\bin\Debug\net6.0\04_MailAdresiEkranaYazdirma.deps.json
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\bin\Debug\net6.0\04_MailAdresiEkranaYazdirma.runtimeconfig.json
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\bin\Debug\net6.0\04_MailAdresiEkranaYazdirma.dll
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\bin\Debug\net6.0\04_MailAdresiEkranaYazdirma.pdb
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.dll
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\refint\04_MailAdresiEkranaYazdirma.dll
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.pdb
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\04_MailAdresiEkranaYazdirma.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\Intro\04_MailAdresiEkranaYazdirma\obj\Debug\net6.0\ref\04_MailAdresiEkranaYazdirma.dll

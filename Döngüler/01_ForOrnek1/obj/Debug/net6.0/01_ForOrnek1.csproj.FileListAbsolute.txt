@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\bin\Debug\net6.0\01_ForOrnek1.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\bin\Debug\net6.0\01_ForOrnek1.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\bin\Debug\net6.0\01_ForOrnek1.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\bin\Debug\net6.0\01_ForOrnek1.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\bin\Debug\net6.0\01_ForOrnek1.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\refint\01_ForOrnek1.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\01_ForOrnek1.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\01_ForOrnek1\obj\Debug\net6.0\ref\01_ForOrnek1.dll

@@ -1,0 +1,15 @@
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\bin\Debug\net6.0\07_MethodOrnekMail.exe
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\bin\Debug\net6.0\07_MethodOrnekMail.deps.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\bin\Debug\net6.0\07_MethodOrnekMail.runtimeconfig.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\bin\Debug\net6.0\07_MethodOrnekMail.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\bin\Debug\net6.0\07_MethodOrnekMail.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.csproj.AssemblyReference.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.AssemblyInfoInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.AssemblyInfo.cs
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\refint\07_MethodOrnekMail.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\07_MethodOrnekMail.genruntimeconfig.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\07_MethodOrnekMail\obj\Debug\net6.0\ref\07_MethodOrnekMail.dll

@@ -1,0 +1,15 @@
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\bin\Debug\net6.0\05_SoruTernary.exe
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\bin\Debug\net6.0\05_SoruTernary.deps.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\bin\Debug\net6.0\05_SoruTernary.runtimeconfig.json
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\bin\Debug\net6.0\05_SoruTernary.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\bin\Debug\net6.0\05_SoruTernary.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.csproj.AssemblyReference.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.AssemblyInfoInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.AssemblyInfo.cs
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\refint\05_SoruTernary.dll
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.pdb
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\05_SoruTernary.genruntimeconfig.cache
+C:\Users\oguzhan\source\repos\BilgeAdamBoost\KararYapıları\05_SoruTernary\obj\Debug\net6.0\ref\05_SoruTernary.dll
