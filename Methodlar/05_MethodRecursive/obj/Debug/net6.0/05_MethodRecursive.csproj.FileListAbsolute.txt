@@ -1,0 +1,15 @@
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\bin\Debug\net6.0\05_MethodRecursive.exe
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\bin\Debug\net6.0\05_MethodRecursive.deps.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\bin\Debug\net6.0\05_MethodRecursive.runtimeconfig.json
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\bin\Debug\net6.0\05_MethodRecursive.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\bin\Debug\net6.0\05_MethodRecursive.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.csproj.AssemblyReference.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.AssemblyInfoInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.AssemblyInfo.cs
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\refint\05_MethodRecursive.dll
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.pdb
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\05_MethodRecursive.genruntimeconfig.cache
+C:\Users\oguzhan\Desktop\BilgeadamEgitim\BilgeAdamBoost\Methodlar\05_MethodRecursive\obj\Debug\net6.0\ref\05_MethodRecursive.dll
